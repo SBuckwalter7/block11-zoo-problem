@@ -1,5 +1,6 @@
 .zoo{
-    color:rgb(4, 101, 49)
+    color:rgb(4, 101, 49);
+    text-align: center;
 }
 
 h2 {
@@ -14,40 +15,16 @@ p{
     color: rgb(5, 59, 1);
 }
 
-
-.bear{
-    border:20px solid color(rgb(0, 0, 0));
-    padding:10px;
-    width: 200px
-}
-
-
-.giraffe{
-
-
-}
-
-
-
-.lion{
-
-
-}
-
-
-
-.monkey{
-
-
-}
-
-
-
-.gator{
-
-
-}
-
 img{
-    width: 300px
+    width:400px;
+}
+
+
+.animals{
+    border:10px solid rgb(163, 114, 8);
+    padding:50px;
+    width: 500px;
+    margin: 10px;
+    margin-left: auto;
+    margin-right: auto;
 }
