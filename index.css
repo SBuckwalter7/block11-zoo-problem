@@ -1,0 +1,52 @@
+.zoo{
+    color:rgb(4, 101, 49)
+}
+
+h2 {
+    color: rgb(78, 0, 3);
+}
+
+li{
+    color: rgb(70, 33, 3);
+}
+
+p{
+    color: rgb(5, 59, 1);
+}
+
+
+.bear{
+    border:20px solid color(rgb(0, 0, 0));
+    width: 200px
+}
+
+
+.giraffe{
+
+
+}
+
+
+
+.lion{
+
+
+}
+
+
+
+.monkey{
+
+
+}
+
+
+
+.gator{
+
+
+}
+
+img{
+    width: 300px
+}
